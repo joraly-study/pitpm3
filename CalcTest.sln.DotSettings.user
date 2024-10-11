@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ec7855c_002Dfc28_002D4735_002D8a36_002Dd0eff93d6b68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalcTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::955130C1-7BBA-4FA3-BDAC-92A767F031A9::net8.0::Calc.Tests.CalcTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9bcb9646_002Dd637_002D4d92_002D9c21_002D82ba7d838d9e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalcTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::955130C1-7BBA-4FA3-BDAC-92A767F031A9::net8.0::Calc.Tests.CalcTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af5375b1_002D354e_002D43ce_002Dadc3_002D2493eea3ac18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalcTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::955130C1-7BBA-4FA3-BDAC-92A767F031A9::net8.0::Calc.Tests.CalcTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/joraly/.cache/JetBrains/Rider2024.2/resharper-host/temp/Rider/vAny/CoverageData/_CalcTest.839369185/Snapshot/snapshot.utdcvr</s:String></wpf:ResourceDictionary>
